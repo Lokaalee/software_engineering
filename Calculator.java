@@ -1,6 +1,6 @@
 public class Calculator {
     public static void main(String[] args) {
-        int a = 30;
+        int a = 25;
         int b = 5;
 
         System.out.println("Addition: " + (a + b));
